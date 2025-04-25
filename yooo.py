@@ -1,1 +1,1 @@
-hi cloud
+printf("hi cloud");
