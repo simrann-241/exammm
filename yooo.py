@@ -1,1 +1,1 @@
-printf("hi cloud")
+print("hi cloud")
